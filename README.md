@@ -22,9 +22,7 @@ PPG, PPI を測定し，結果を .csv で出力する
 
 - Change the value of address in the program to the unique identifier of the Polar device. The unique identifier can be found at the following locations
   
-  1. Control Panel > Hardware and Sound > Devices and Printers > Right click on Polar Sence 
-  
-  2. Properties > Connected Devices > Unique Identifier
+  > Control Panel > Hardware and Sound > Devices and Printers > Right click on Polar Sence > Properties > Connected Devices > Unique Identifier
 
 - Change the value of address in the program to the name of the file you want to output
 
@@ -41,10 +39,8 @@ PPG, PPI を測定し，結果を .csv で出力する
 - プログラム内の address の値を Polar デバイスの一意の識別子に変更
 
     一意の識別子は以下の場所で確認可能
-
-1. コントロールパネル > ハードウェアとサウンド > デバイスとプリンター > Polar Sence を右クリック
-
-2. プロパティ > 接続されているデバイス > 一意の識別子
+    
+> コントロールパネル > ハードウェアとサウンド > デバイスとプリンター > Polar Sence を右クリック > プロパティ > 接続されているデバイス > 一意の識別子
    
    
 - プログラム内の address の値を出力したいファイル名に変更
