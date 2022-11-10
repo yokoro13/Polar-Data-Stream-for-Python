@@ -1,5 +1,7 @@
 # Polar Data Stream for Python
 
+This is for [Polar Verity Sense](https://www.polar.com/en/products/accessories/polar-verity-sense)
+
 ### Windows10/macOS/Linux
 
 **Bluetooth is required**
