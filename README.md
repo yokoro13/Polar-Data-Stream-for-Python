@@ -5,6 +5,7 @@ This is for [Polar Verity Sense](https://www.polar.com/en/products/accessories/p
 ### Windows10/macOS/Linux
 
 **Bluetooth is required**
+
 **Bluetooth が必要**
 
 Measure PPG and PPI and output the results in .csv
@@ -18,7 +19,7 @@ PPG, PPI を測定し，結果を .csv で出力する
 
 #### Install libraries
 
-`pip install -r requirement.txt`
+`pip install -r requirements.txt`
 
 #### Connect PC and Polar Sence via Bluetooth
 
@@ -34,13 +35,13 @@ PPG, PPI を測定し，結果を .csv で出力する
 
 - When the measurement finishes, output the result to a file
 
-<br />
+<br/>
 
 - PC と Polar Sence を Bluetooth で接続
 
 - プログラム内の address の値を Polar デバイスの一意の識別子に変更
 
-    一意の識別子は以下の場所で確認可能
+- 一意の識別子は以下の場所で確認可能
     
 > コントロールパネル > ハードウェアとサウンド > デバイスとプリンター > Polar Sence を右クリック > プロパティ > 接続されているデバイス > 一意の識別子
    
